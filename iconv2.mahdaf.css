@@ -1,0 +1,31 @@
+/*!
+
+ =========================================================
+ * ICON APP Mahdaf Webs - V.2
+ =========================================================
+ 
+ * Product Page: https://www.mahdafweb.com
+ * Copyright 2017 Mahdaf  (http://www.mahdafweb.com/p/about-me.html)
+
+ 
+ =========================================================
+ 
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
+<style>
+/*ICON APP*/ 
+.icon-app span{ background-image:url(&#39;https://rawgit.com/mastamvan/image/master/download.png&#39;) } .icon-app span.facebook { background-image:url(&#39;https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300&#39;); }
+ .icon-app span.computerlauncher { background-image:url(&#39;https://lh3.googleusercontent.com/wEXMvIJ5ZXBlOiltKxm4eRlTqnFTW0RVQhQBtVkgQ9ATIPEbvEkG_0AAJQdIYJqquG4=w300&#39;); }
+ .icon-app span.instagrid { background-image:url(&#39;https://lh3.googleusercontent.com/FOUDOqxN3DOMMnZ3z5SP_7oFEKaS2KAAc5Z5gQlW6cnzh9x2N3oLsH0MpDvJkcRrcDc=w300&#39;); } 
+.icon-app span.allo { background-image:url(&#39;https://lh3.googleusercontent.com/S8DKhY39f1jpVy1-JV3qpI_ftuJwJnKjNbRhrVRGi-MQjr6i73JQI3-dmkQ93E0Jb4hT=w300&#39;); }
+ .icon-app span.filelocker { background-image:url(&#39;https://lh3.ggpht.com/3Mp1FeePSD1rvRHjd8CI9XvyeScCi9LzkCc5RP70RiZhn_SnIWm9EKuHHqdRQsIhDtA=w300&#39;); }
+ .icon-app span.projectui-nougat { background-image:url(&#39;https://lh3.googleusercontent.com/Yk8sGKjy4VW7yPRM1-liXWdAIFMzR4wcF7nkbDMeMz-9znO4HaN-rfw_nYHXPnKqRw=w300&#39;); }
+  .icon-app span.nougatui { background-image:url(&#39;https://lh3.googleusercontent.com/m7GNRP8iEakE3CH7eCIknsA7pOXOsi954rdSymK54WVuPOVqmtLFiwIE4aZ400kJ5w=w300&#39;); }
+  .icon-app span.nova { background-image:url(&#39;https://lh3.googleusercontent.com/rKl1iZH9nnoJIUc-pjRFoBx0FSKRyzPQ-Yp4uSH_Fdq_9koag3-hVmMPbUI08ZoU96k=w300&#39;); }
+  .icon-app span.pixelicon { background-image:url(&#39;https://lh3.googleusercontent.com/cFI7oS-MtBVuMbpsg5Cb8PJnFIWQc8ufhZClflxlCyx_JT1ubqHgKx_y7sAlD1MSS14=w300&#39;); }
+  .icon-app span.chromepc { background-image:url(&#39;https://lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w300&#39;); }
+.icon-app span.wa { background-image:url('https://lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w300'); } 
+ .icon-app span.file-explore { background-image:url('https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300-rw'); }
+ .icon-app span.chrome { background-image:url('https://lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w300'); } 
+.icon-app span.firefox { background-image:url('https://lh5.ggpht.com/8PODwBXKk4L201m4IO1wifRDfbn4Q1JxNxOzj-5TXPJ85_S-vOqntLi7TsVyeFQM0w4=w300'); }
+ .icon-app span.cashtree { background-image:url('https://lh3.googleusercontent.com/MG5jKrvaSGJzdkoDorqBV9wVLzfy0rH84paJdgD5ZT4r1fOIbESVjYKhMZc2E58oMM-s=w300'); }</style>
